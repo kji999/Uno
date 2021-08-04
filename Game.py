@@ -11,7 +11,7 @@ class Game:
 
         self.player0 = Player("Rabbit")
         self.player1 = Player("Horse")
-        self.player2 = Player("Thumb in the bootyhole PLZ")
+        self.player2 = Player("Chicken")
         self.player3 = Player(username)
 
         self.board = []
